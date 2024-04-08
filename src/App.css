@@ -1,0 +1,7 @@
+/* Importing the Bootstrap CSS */
+@import url('bootstrap/dist/css/bootstrap.min.css');
+
+.card {
+	width: 18rem;
+	margin: 20px;
+}
